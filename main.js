@@ -12,7 +12,7 @@ else{
     console.log('ilegal diregir');
 }
 
-let idade=parseint(prompt (qual e sua idade?))
+let idade=parseint(prompt ('qual e suaidade?'))
 if (idade>16){
     console.log('Pode dirigir');
 }
