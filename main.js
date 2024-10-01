@@ -8,6 +8,14 @@ for (let i=0;i<nome.length;i++) {
 }
 
 let idade=23;
+else{ 
+    console.log('ilegal diregir');
+}
 
-
-
+let idade=parseint(prompt (qual e sua idade?))
+if (idade>16){
+    console.log('Pode dirigir');
+}
+ else{
+    console.log('Ilegal dirigir');
+ }
